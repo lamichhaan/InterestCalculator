@@ -1,0 +1,9 @@
+C:\Users\angatlamichhane\Desktop\C#\WindowsForm\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+C:\Users\angatlamichhane\Desktop\C#\WindowsForm\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+C:\Users\angatlamichhane\Desktop\C#\WindowsForm\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+C:\Users\angatlamichhane\Desktop\C#\WindowsForm\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.Form1.resources
+C:\Users\angatlamichhane\Desktop\C#\WindowsForm\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.Properties.Resources.resources
+C:\Users\angatlamichhane\Desktop\C#\WindowsForm\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csproj.GenerateResource.Cache
+C:\Users\angatlamichhane\Desktop\C#\WindowsForm\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.exe
+C:\Users\angatlamichhane\Desktop\C#\WindowsForm\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.pdb
+C:\Users\angatlamichhane\Desktop\C#\WindowsForm\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csprojResolveAssemblyReference.cache
